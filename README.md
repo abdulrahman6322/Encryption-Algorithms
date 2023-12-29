@@ -1,5 +1,5 @@
 # Encryption-Algorithms
-
+1.Blowfish 2.DES 3.ECC 4.vigrneer 5.ceaser cipher 6.hill cipher 7.playfair
 To run the code of streamlit 
 # 1.open new terminal 
 # 2.write "streamlit run security.py"
